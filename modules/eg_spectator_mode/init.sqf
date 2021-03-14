@@ -1,4 +1,4 @@
-["EG Spectator Mode", "1.0", "Replaces The Bear Cave spectator script with the Vanilla Spectator.", "BI, Perfk &amp; BlackHawk"] call FNC_RegisterModule;
+["EG Spectator Mode", "1.0", "Replaces Jackalope spectator script with the Vanilla Spectator.", "BI, Perfk &amp; BlackHawk"] call FNC_RegisterModule;
 
 #define DEBUG_MSG(MSG)
 //systemchat MSG;\
