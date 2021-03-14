@@ -9,7 +9,7 @@
 	class AIAttackSkill {
 		title = "Skill level of the attacking AI!";
 		values[] = {50,60,70,80,90,100};
-		texts[] = {"Weak(50)","HereAndThere(60)","Medium(70)","BearCave-Level(80)","Gulag-Level(90)","Russian Community(100)"};
+		texts[] = {"Weak(50)","HereAndThere(60)","Medium(70)","GC-Level(80)","Gulag-Level(90)","Russian Community(100)"};
 		default = 70;
 	};
 
