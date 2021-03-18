@@ -12,7 +12,7 @@ switch (side player) do { // Checks what team the player is on
     <br />
     This is how you display an image:
     <br /><br />
-    <img image='core\tbc-logo-200.jpg' width='165' height='200' />
+    <img image='core\jackalope-logo-200.jpg' width='165' height='200' />
     ENDTAB;
 
     NEWTAB("A. Enemy Forces:")

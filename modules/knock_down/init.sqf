@@ -6,10 +6,10 @@
 if (hasInterface) then { // As this module is client-side only, only continue if this is a client
 	#include "settings.sqf"
 
-	if ((side player) in TBC_KNOCKDOWN_TEAMS) then { // If this player is in the list of teams who can use the knock down feature
+	if ((side player) in JACKALOPE_KNOCKDOWN_TEAMS) then { // If this player is in the list of teams who can use the knock down feature
 		//hint "Registering action..";
-		["Jackalope Framework", "knock_down", "Knock Down", { [TBC_KNOCKDOWN_WEAPONS, TBC_KNOCKDOWN_REVIVE_ACTION] execVM "modules\knock_down\action.sqf";  }, "",
-		[TBC_KNOCKDOWN_KEY, [TBC_KNOCKDOWN_KEY_SHIFT, TBC_KNOCKDOWN_KEY_CONTROL, TBC_KNOCKDOWN_KEY_ALT]]] call CBA_fnc_addKeybind;
+		["Jackalope Framework", "knock_down", "Knock Down", { [JACKALOPE_KNOCKDOWN_WEAPONS, JACKALOPE_KNOCKDOWN_REVIVE_ACTION] execVM "modules\knock_down\action.sqf";  }, "",
+		[JACKALOPE_KNOCKDOWN_KEY, [JACKALOPE_KNOCKDOWN_KEY_SHIFT, JACKALOPE_KNOCKDOWN_KEY_CONTROL, JACKALOPE_KNOCKDOWN_KEY_ALT]]] call CBA_fnc_addKeybind;
 	};
 
 } else {
