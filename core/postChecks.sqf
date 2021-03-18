@@ -1,7 +1,7 @@
 if (!isDedicated) then {
 	private ["_modules", "_module"];
 
-	_modules = "<font size='18'>TBC Framework Modules</font><br/><br/>";
+	_modules = "<font size='18'>Jackalope Framework Modules</font><br/><br/>";
 
 	for "_i" from 0 to count FW_Modules - 1 do {
 		_module = FW_Modules select _i;
