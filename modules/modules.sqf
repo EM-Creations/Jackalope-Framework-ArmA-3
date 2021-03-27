@@ -51,3 +51,4 @@
 //#include "knock_down\root.sqf"
 //#include "weapon_helper\root.sqf"
 //#include "headless_spawn\root.sqf"
+#include "backpack_on_chest\root.sqf"
