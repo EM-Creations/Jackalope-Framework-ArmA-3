@@ -25,6 +25,7 @@ _units apply {
     _x params ["_type", "_gear"];
     diag_log format ["Spawning: %1 with gear: %2", _type, _gear];
     private _unit = _group createUnit [_type, _groupPos, [], 15, "NONE"];
+    _unit call FNC_trackUnit;
     [_unit, _gear] call FNC_GearScript;
 };
 

@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://github.com/EM-Creations/Jackalope-Framework-ArmA-3/blob/v1.0.0/core/logo.png">
+    <img src="https://github.com/EM-Creations/Jackalope-Framework-ArmA-3/blob/v5.0.0/core/logo.png">
 </p>
 <p align="center">
     <a href="https://github.com/EM-Creations/Jackalope-Framework-ArmA-3/releases/latest">
-        <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Jackalope Framework Version">
+        <img src="https://img.shields.io/badge/Version-5.0.0-blue.svg" alt="Jackalope Framework Version">
     </a>
     <a href="https://github.com/EM-Creations/Jackalope-Framework-ArmA-3/issues">
         <img src="https://img.shields.io/github/issues-raw/EM-Creations/Jackalope-Framework-ArmA-3.svg?label=Issues" alt="Jackalope Framework Issues">
