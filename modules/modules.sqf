@@ -48,6 +48,7 @@
 //#include "start_on_team_color\root.sqf"
 //#include "start_text\root.sqf"
 //#include "task_control\root.sqf"
+//#include "set_identity\root.sqf"
 //#include "start_in_vehicle\root.sqf"
 //#include "knock_down\root.sqf"
 //#include "weapon_helper\root.sqf"
