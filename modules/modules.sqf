@@ -32,6 +32,7 @@
 //#include "ambient_effects\root.sqf"
 //#include "ao_limit\root.sqf"
 //#include "ao_limit_soft\root.sqf"
+//#include "backpack_on_chest\root.sqf"
 //#include "call_mission\root.sqf"
 //#include "capture_zone\root.sqf"
 //#include "cover_map\root.sqf"
